@@ -1,8 +1,9 @@
 {
   "name": "types-styled-components-native",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "types for styled-components/native",
-  "main": "index.d.ts",
+  "main": "",
+  "types": "index.d.ts",
   "repository": "git@github.com:michalsek/types-styled-components-native.git",
   "author": "Michal Sek <michal.sek@swmansion.com>",
   "license": "MIT",
@@ -15,5 +16,6 @@
     "@types/react": "~18.0.0",
     "@types/react-native": "~0.69.1",
     "@types/styled-components": "~5.1.26"
-  }
+  },
+  "typeScriptVersion": "3.7"
 }
