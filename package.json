@@ -1,0 +1,19 @@
+{
+  "name": "types-styled-components-native",
+  "version": "1.0.0",
+  "description": "types for styled-components/native",
+  "main": "index.d.ts",
+  "repository": "git@github.com:michalsek/types-styled-components-native.git",
+  "author": "Michal Sek <michal.sek@swmansion.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "@types/react": "~18.0.0",
+    "@types/react-native": "~0.69.1",
+    "@types/styled-components": "~5.1.26"
+  },
+  "devDependencies": {
+    "@types/react": "~18.0.0",
+    "@types/react-native": "~0.69.1",
+    "@types/styled-components": "~5.1.26"
+  }
+}
